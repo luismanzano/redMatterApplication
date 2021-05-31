@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar{
+  height: 3rem;
+  background-color: #F53959;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.separator {
+  height: 5rem;
+}
+
+canvas{
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  box-shadow: 1px 5px 15px 5px rgba(0,0,0,0.49);
+}
+
