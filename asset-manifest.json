@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redMatterApplication/static/css/main.28dc8397.chunk.css",
+    "main.js": "/redMatterApplication/static/js/main.048077eb.chunk.js",
+    "main.js.map": "/redMatterApplication/static/js/main.048077eb.chunk.js.map",
+    "runtime-main.js": "/redMatterApplication/static/js/runtime-main.3dc5fb6f.js",
+    "runtime-main.js.map": "/redMatterApplication/static/js/runtime-main.3dc5fb6f.js.map",
+    "static/js/2.9ccbba0e.chunk.js": "/redMatterApplication/static/js/2.9ccbba0e.chunk.js",
+    "static/js/2.9ccbba0e.chunk.js.map": "/redMatterApplication/static/js/2.9ccbba0e.chunk.js.map",
+    "static/js/3.e09cbc0d.chunk.js": "/redMatterApplication/static/js/3.e09cbc0d.chunk.js",
+    "static/js/3.e09cbc0d.chunk.js.map": "/redMatterApplication/static/js/3.e09cbc0d.chunk.js.map",
+    "index.html": "/redMatterApplication/index.html",
+    "static/css/main.28dc8397.chunk.css.map": "/redMatterApplication/static/css/main.28dc8397.chunk.css.map",
+    "static/js/2.9ccbba0e.chunk.js.LICENSE.txt": "/redMatterApplication/static/js/2.9ccbba0e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/redMatterApplication/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dc5fb6f.js",
+    "static/js/2.9ccbba0e.chunk.js",
+    "static/css/main.28dc8397.chunk.css",
+    "static/js/main.048077eb.chunk.js"
+  ]
+}
